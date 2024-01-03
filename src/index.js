@@ -1,3 +1,10 @@
-import analyzer from './analyzer.js';
 
-//TODO: escuchar eventos del DOM e invocar  los métodos del objeto `analyzer`
+
+//const getWordCount: (Text) => {  
+  //  const wordcount = analyser.getWordCount:(document.querySelector('[name="user-input"]').value)
+    
+    //document.querySelector('[data-testid = "word-count"]').textContent = 'Contagem de palavras: ${wordCount}';
+    //},
+ 
+ 
+ 
