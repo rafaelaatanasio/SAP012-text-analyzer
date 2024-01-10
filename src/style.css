@@ -1,65 +1,66 @@
-  header {
-    font-size: 20px;
-    color: #0c0a0c;
-  }
- 
-  footer {
-    color: #f789f7;
-    font-size: 1em;
-    margin-left: 480px;
-  }
+* {
+  text-align: center;
+}
 
-  h1 {
-    width: 335px;
-    height: 50px;
-    background-color: #c156dbcc;
-    color: #2e091f;
-    padding: 10px;
-    margin-inline: 470px;
-  }
+header {
+  font-size: 20px;
+  color: #0c0a0c;
+}
 
-  ul {
+h1 {
+  width: 335px;
+  height: 50px;
+  background-color: #c156dbcc;
+  color: #2e091f;
+  padding: 10px;
+  margin-inline: 470px;
+}
+
+footer {
+  color: #f789f7;
+  font-size: 1em;
+}
+
+ul {
   list-style: none;
   margin: 45px;
   width: 60%;
-  }
+}
 
-  li {
-    display: flex;
-    background-color: #ce9fe9;
-    color: rgb(0, 0, 0);
-    border: 1px solid rgb(0, 0, 0);
-    padding: 5px;
-    margin: 5px;
-    list-style-type: none;
-    margin-left: 300px;
-  }
-  
-  .one {
-    border: #0c0a0c solid 1px;
-  }
+li {
+  display: flex;
+  background-color: #ce9fe9;
+  color: rgb(0, 0, 0);
+  border: 1px solid rgb(0, 0, 0);
+  padding: 5px;
+  margin: 5px;
+  list-style-type: none;
+  margin-left: 300px;
+}
 
-  textarea[name="user-input"] {
-    background-color: #be98ce;
-    width: 50%;
-    font-size: 1rem;
-    padding: 0.5rem;
-    border-radius: 5px;
-    border: 2px solid #e3a3f3cc; 
-    margin-left: 300px;
-  }
+.one {
+  border: #0c0a0c solid 1px;
+}
 
-  #reset-button {
-    margin-left: 585px;
-    background-color: #8611b8;
-    color: hsl(0, 0%, 99%);
-    font-size: 1.1rem; 
-    padding: 0.4rem 1rem;
-    border-radius: 5px;
-    border: none;
-    cursor: pointer
-   }
+textarea[name="user-input"] {
+  background-color: #be98ce;
+  width: 50%;
+  font-size: 1rem;
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 2px solid #e3a3f3cc;
+}
 
-  #reset-button:hover {
-    background-color: rgb(76, 41, 133);
-  }
+#reset-button {
+  background-color: #8611b8;
+  color: hsl(0, 0%, 99%);
+  font-size: 1.1rem;
+  padding: 0.4rem 1rem;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer
+}
+
+#reset-button:hover {
+  background-color: rgb(76, 41, 133);
+}
