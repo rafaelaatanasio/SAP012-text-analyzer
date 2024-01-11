@@ -10,7 +10,7 @@ const numberCount = document.querySelector('[data-testid="number-count"]');
 const numberSum = document.querySelector('[data-testid="number-sum"]');
 const wordLengthAverage = document.querySelector('[data-testid="word-length-average"]');
 
-textarea.addEventListener('keyup', allMetricsUpdate);
+textarea.addEventListener('input', allMetricsUpdate);
 button.addEventListener("click", clearAllMetricsAndText);
 
 function clearAllMetricsAndText() { //Limpa e redefine o conteúdo quando clicado.
