@@ -3,7 +3,8 @@
 }
 
 body {
-  background-color: rgb(38, 4, 46);
+  background: #0c0a0c url(https://img.freepik.com/vetores-gratis/fundo-pixel-chuva-resumo_23-2148361453.jpg?w=740&t=st=1705013948~exp=1705014548~hmac=809315a04cc3f05748663c037809862e914ef26a9e9cc836882c488ff32c99b2) no-repeat top center;
+  background-size: 100%;
 }
 
 header {
@@ -12,34 +13,38 @@ header {
 }
 
 h1 {
-  width: 335px;
+  width: 390px;
   height: 50px;
-  background-color: #c156dbcc;
-  color: #2e091f;
-  padding: 10px;
+  background-color: #a585f0cc;
+  color: #301149;
   margin-inline: 470px;
+  font-family: Cambria, Cochin, Georgia, Times, serif;
+  border-radius: 5px;
 }
 
 footer {
-  color: #f789f7;
+  color: #ebbbeb;
   font-size: 1em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 ul {
   list-style: none;
   margin: 45px;
   width: 60%;
+  font-family: Cambria, Cochin, Georgia, Times, serif;
 }
 
 li {
   display: flex;
-  background-color: #ce9fe9;
+  background-color: #b99fe9;
   color: rgb(0, 0, 0);
   border: 1px solid rgb(0, 0, 0);
   padding: 5px;
   margin: 5px;
   list-style-type: none;
-  margin-left: 300px;
+  margin-left: 350px;
+  border-radius: 5px;
 }
 
 .one {
@@ -47,16 +52,17 @@ li {
 }
 
 textarea[name="user-input"] {
-  background-color: #be98ce;
+  background-color: #c8a5f7;
   width: 50%;
   font-size: 1rem;
   padding: 0.5rem;
-  border-radius: 5px;
-  border: 2px solid #e3a3f3cc;
+  border-radius: 4px;
+  border: 2px solid #a071eccc;
+  resize: none;
 }
 
 #reset-button {
-  background-color: #8611b8;
+  background-color: #280441;
   color: hsl(0, 0%, 99%);
   font-size: 1.1rem;
   padding: 0.4rem 1rem;
@@ -66,5 +72,5 @@ textarea[name="user-input"] {
 }
 
 #reset-button:hover {
-  background-color: rgb(76, 41, 133);
+  background-color: rgb(51, 7, 71);
 }
