@@ -3,7 +3,7 @@
 }
 
 body {
-  background:#0c0a0c url(https://img.freepik.com/vetores-gratis/fundo-pixel-chuva-resumo_23-2148361453.jpg?w=740&t=st=1705013948~exp=1705014548~hmac=809315a04cc3f05748663c037809862e914ef26a9e9cc836882c488ff32c99b2) no-repeat top center;
+  background: #0c0a0c url(https://img.freepik.com/vetores-gratis/fundo-pixel-chuva-resumo_23-2148361453.jpg?w=740&t=st=1705013948~exp=1705014548~hmac=809315a04cc3f05748663c037809862e914ef26a9e9cc836882c488ff32c99b2) no-repeat top center;
   background-size: 100%;
 }
 
@@ -25,7 +25,7 @@ h1 {
 footer {
   color: #c996c9;
   font-size: 1em;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 ul {
