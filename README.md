@@ -75,7 +75,7 @@ A lista de funcionalidades é a seguinte:
 3. A aplicação permite limpar o conteúdo da caixa de texto ao clicar
     em um botão.
 
-![Analisador de texto] (![Gif Text Analyzer](https://github.com/rafaelaatanasio/SAP012-text-analyzer/assets/144054244/fbba79e1-6f8f-4afe-9c42-7cb30f31d3ec) "Analisador de texto")
+(![Gif Text Analyzer](https://github.com/rafaelaatanasio/SAP012-text-analyzer/assets/144054244/fbba79e1-6f8f-4afe-9c42-7cb30f31d3ec)
 
 ## 5. Boilerplate
 
