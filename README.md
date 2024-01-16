@@ -18,12 +18,7 @@
 
 ## 1. Considerações gerais
 
-- Este projeto será resolvido de forma **individual**.
-- A estimativa de tempo para completar o projeto varia de 2 a 4 Sprints.
-- Concentre-se em aprender, não apenas em "completar" o projeto.
-- Sugerimos que você não tente saber tudo antes de começar a codificar.
-  Não se preocupe muito com o que você _ainda_ não entende.
-  Você aprenderá ao longo do processo.
+- 
 
 ## 2. Preâmbulo
 
@@ -46,7 +41,7 @@ podem obter uma compreensão mais profunda dos textos.
 
 ## 3. Resumo do projeto
 
-Neste projeto, você criará uma aplicação web que permitirá que a usuária analise
+Neste projeto, foi criado uma aplicação web que permitirá que a usuária analise
 um texto no navegador, exibindo uma série de indicadores e métricas específicas
 sobre caracteres, letras, números, etc., que foram inseridos por ela como entrada.
 Você realizará isso usando HTML, CSS e JavaScript.
@@ -77,10 +72,10 @@ A lista de funcionalidades é a seguinte:
     - **Comprimento médio das palavras**: a aplicação deve calcular o
     comprimento médio das palavras no texto de entrada e mostrar esse valor para a usuária.
 
-3. A aplicação deve permitir limpar o conteúdo da caixa de texto ao clicar
+3. A aplicação permite limpar o conteúdo da caixa de texto ao clicar
     em um botão.
 
-![Demonstração do analisador de texto](https://github-production-user-asset-6210df.s3.amazonaws.com/12631491/240650556-988dcd6f-bc46-473b-894c-888a66c9fe2d.gif "Demonstração do analisador de texto")
+![Analisador de texto] (C:\Users\rahjd\Videos\Gif Text Analyzer.gif "Analisador de texto")
 
 ## 5. Boilerplate
 
