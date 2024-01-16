@@ -23,10 +23,6 @@
 ## 2. Preâmbulo
 
 ![Analisador de Texto](https://github.com/rafaelaatanasio/SAP012-text-analyzer/assets/144054244/b44dd584-330e-4c4d-9226-8b8851d3cdb0)
-<<<<<<< HEAD
-
-=======
->>>>>>> f0aa7d8b24c28556b5670a6398ae92103a1150df
 
 Um analisador de texto é uma aplicação para extrair informações úteis de um
 texto utilizando diversas técnicas, como o processamento de linguagem natural
