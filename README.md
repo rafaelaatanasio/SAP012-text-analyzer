@@ -22,7 +22,8 @@
 
 ## 2. Preâmbulo
 
-![Uma lupa sobre texto de livro](https://github.com/Laboratoria/curriculum/assets/92090/2b45f653-69a5-4282-a65c-d34125c36113)
+![Analisador de Texto](https://github.com/rafaelaatanasio/SAP012-text-analyzer/assets/144054244/b44dd584-330e-4c4d-9226-8b8851d3cdb0)
+
 
 Um analisador de texto é uma aplicação para extrair informações úteis de um
 texto utilizando diversas técnicas, como o processamento de linguagem natural
@@ -75,7 +76,7 @@ A lista de funcionalidades é a seguinte:
 3. A aplicação permite limpar o conteúdo da caixa de texto ao clicar
     em um botão.
 
-![Analisador de texto] (C:\Users\rahjd\Videos\Gif Text Analyzer.gif "Analisador de texto")
+![Gif Text Analyzer](https://github.com/rafaelaatanasio/SAP012-text-analyzer/assets/144054244/fbba79e1-6f8f-4afe-9c42-7cb30f31d3ec)
 
 ## 5. Boilerplate
 
